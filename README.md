@@ -25,4 +25,4 @@ Traducción sin ánimo de lucro de Yo-kai Watch 1 Smartphone al Español
 
 Lider de la traducción de YKW1 Mobile: Chip_LG08
 
-Creador del Enma Patcher (Herramienta de parcheo: hxgohxrr
+Creador del Enma Patcher (Herramienta de parcheo): hxgohxrr
