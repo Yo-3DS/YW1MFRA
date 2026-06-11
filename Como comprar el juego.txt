@@ -1,0 +1,49 @@
+__¿Cómo comprar Yo-kai Watch 1 Smartphone?__
+
+■ Android:
+
+1. Necesitarás una VPN (Tunnelbear, Proton VPN, etc)
+
+2. Tras conectarte al servidor japonés, entra a "Ajustes -> Aplicaciones -> Play Store".
+
+3. Selecciona "Forzar detención". Luego entra a "Almacenamiento" y dale a borrar caché.
+
+4. Crea una nueva cuenta de Google japonesa. Deberás seleccionar un hogar y código postal japonés. (Pídeselo a ChatGPT.)
+
+5. Ingresa a la Play Store con la cuenta japonesa y entra a la página del juego: https://play.google.com/store/apps/details?id=jp.co.level5.yws1
+
+6. Introduce los datos necesarios de tu tarjeta y compra el juego. (Precio actual 2000 ¥ = 14 €, se recomienda esperar a promociones que haga la misma Level-5 o Google.)
+
+[En caso de ya poseer un apk del propio juego, también podrá ser usado en Enma Patcher para la instalación de la traducción.]
+
+■ iOS:
+
+1. Abre ajustes de tu dispositivo y entra a tu Apple ID.
+
+2. Selecciona, "Ver perfil" y después entra a "País / Región" para luego seleccionar Japón.
+
+3. Tras esto, como YW1 Smartphone es un juego de pago deberás seleccionar un hogar y código postal japonés. (Pídeselo a ChatGPT.)
+
+4. Ve a la App Store y el juego ya te debería aparecer disponible para su compra: https://apps.apple.com/jp/app/妖怪ウォッチ1-スマホ/id1542957396
+
+5. Introduce los datos necesarios de tu tarjeta y compra el juego. (Precio actual 2000 ¥ = 14 €, se recomienda esperar a promociones que haga la misma Level-5 o Apple.)
+
+[La traducción aún no se encuentra disponible en dispositivos iOS.]
+
+● Especificaciones mínimas:
+
+• Android:
+
+Sistema operativo: Android 7
+
+CPU: arm64-v8a, armebi-v7a
+
+RAM: 3 GB
+
+GPU: Similar a Snapdragon 765/845 o superior.
+
+• iOS:
+
+Sistema operativo: iOS 12 (iOS 13 en caso de que vayas a escanear arks)
+
+Modelos: iPhone 8, iPod touch (7.ª generación), iPhone SE (2.ª generación) o posterior
