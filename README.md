@@ -2,7 +2,7 @@
 Traducción sin ánimo de lucro de Yo-kai Watch 1 Smartphone al Español
 
 <div align="center">
-    <img src="./LOGO.png"/>
+    <img src="./LOGO-1.png"/>
 </div>
 
 ● **__Porcentaje traducido__**:
