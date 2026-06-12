@@ -1,5 +1,5 @@
 # YW1MESP
-Traducción sin ánimo de lucro de Yo-kai Watch 1 Smartphone al Español
+Traducción sin ánimo de lucro de Yo-kai Watch 1 Smartphone al Español utilizando la traducción oficial de la versión de 3DS
 
 <div align="center">
     <img src="./LOGO-1.png"/>
