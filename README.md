@@ -14,7 +14,7 @@ Traducción sin ánimo de lucro de Yo-kai Watch 1 Smartphone al Español utiliza
 
 • Modo historia: 100%
 
-• NPC: 1%
+• NPC: 7%
 
 • Ayudas: 0%
 
