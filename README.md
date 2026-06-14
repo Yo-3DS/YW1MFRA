@@ -22,7 +22,7 @@
 
 ● **__Créditos:__**
 
-Lider de la traducción de YKW1 Mobile: Chip_LG08
+Lider de la traducción de YW1 Smartphone: Chip_LG08
 
 Editor de imágenes: VictorFco
 
