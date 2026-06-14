@@ -27,4 +27,4 @@ Lider de la traducción de YKW1 Mobile: Chip_LG08
 
 Editor de imágenes: VictorFco
 
-Creador del Enma Patcher (Herramienta de parcheo): hxgohxrr
+Creador del Enma Patcher (Herramienta de parcheo) + Fullwide patch: hxgohxrr
