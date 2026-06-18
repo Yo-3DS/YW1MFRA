@@ -4,7 +4,8 @@
     <img src="./promo horizontal yw1m.png"/>
 </div>
 
-● **__Versión__**: 1.5
+● **__Versión Actual__**: 1.6
+
 
 ● **__Porcentaje traducido__**:
 
