@@ -1,7 +1,7 @@
 # YW1MFRA
 
 <div align="center">
-    <img src="./promo horizontal yw1m.png"/>
+   
 </div>
 
 
@@ -18,3 +18,5 @@ Quelques textures volées de YW1 for Nintendo Switch : Calimélo
 Créateur du Enma Patcher : hxgohxrr
 
 Structure du projet basée sur celle de Make a Dream afin de s'assurer d'être compatible avec Enma Patcher (tout leur travail sera remplacé au fil du temps).
+
+Font corrigée : hxgohxrr et Chip_LG08
