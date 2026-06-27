@@ -11,7 +11,7 @@ Vide.
 
 ● **__Crédits:__**
 
-Le gars qui fait ce projet : Yo-3DS
+Le gars qui fait ce projet : Yo-3DS (Discord : yo_2ds)
 
 Quelques textures volées de YW1 for Nintendo Switch : Calimélo
 
