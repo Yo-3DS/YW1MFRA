@@ -1,32 +1,20 @@
-# YW1MESP
+# YW1MFRA
 
 <div align="center">
     <img src="./promo horizontal yw1m.png"/>
 </div>
 
-● **__Versión Actual__**: 1.6
+
+● **__Progression de la traduction__**:
+Vide.
 
 
-● **__Porcentaje traducido__**:
+● **__Crédits:__**
 
+Le gars qui fait ce projet : Yo-3DS
 
-• Textos de interfaz: 100%
+Quelques textures volées de YW1 for Nintendo Switch : Calimélo
 
-• Imágenes: 100%
+Créateur du Enma Patcher : hxgohxrr
 
-• Modo historia: 100%
-
-• NPC: 7%
-
-• Ayudas: 0%
-
-• Voces: 40%
-
-
-● **__Créditos:__**
-
-Lider de la traducción de YW1 Smartphone: Chip_LG08
-
-Editor de imágenes: VictorFco
-
-Creador del Enma Patcher (Herramienta de parcheo) + Halfwide patch: hxgohxrr
+Structure du projet basée sur celle de Make a Dream afin de s'assurer d'être compatible avec Enma Patcher (tout leur travail sera remplacé au fil du temps).
