@@ -17,6 +17,6 @@ Quelques textures volées de YW1 for Nintendo Switch : Calimélo
 
 Créateur du Enma Patcher : hxgohxrr
 
-Structure du projet basée sur celle de Make a Dream afin de s'assurer d'être compatible avec Enma Patcher (tout leur travail sera remplacé au fil du temps).
+Structure du projet basée sur celle de Chip_LG08 afin de s'assurer d'être compatible avec Enma Patcher (tout son travail sera remplacé au fil du temps).
 
 Font corrigée : hxgohxrr et Chip_LG08
