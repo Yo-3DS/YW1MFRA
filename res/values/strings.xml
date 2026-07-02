@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_long_name">YO-KAI WATCH 1 Smartphone</string>
+    <string name="app_name">YO-KAI WATCH 1</string>
+    <string name="boot_error_msg">"Appareil non pris en charge.
+Code erreur : [ERROR_CODE]"</string>
+    <string name="dl_downloding">Installation des données du jeu...</string>
+    <string name="dl_error_exit">"Impossible d'installer les données du jeu.
+Vous allez quitter l'application."</string>
+    <string name="dl_error_retry">"L'installation des données du jeu a échoué. Nouvelle tentative..."</string>
+    <string name="dl_error_setup">"L'initialisation des données du jeu a échoué.
+Vous allez quitter l'application."</string>
+    <string name="dl_error_storage">"Espace de stockage insuffisant pour les données du jeu.
+Vérifiez qu'il reste au moins %uMO d'espace libre et réessayez."</string>
+    <string name="url_scheme">jp.co.level5.yws1</string>
+</resources>
