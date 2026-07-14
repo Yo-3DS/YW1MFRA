@@ -25,5 +25,5 @@ Font corrigée : hxgohxrr et Chip_LG08
 *Vous devez posséder YW1 Smartphone, obtenu légalement sur le PlayStore*
 1. Installer la dernière version d'EnmaPatcher sur votre appareil ([disponible ici](https://github.com/hxgohxrr/Enma-Patcher/releases))
 2. Démarrer l'application et se trouver un fichier drm afin de réaliser le bypass drm
-3. Mettre ce repository au lieu de celui du patch espagnol dans les paramètres
+3. Mettre ce repository (Yo-3DS/YW1MFRA) au lieu de celui du patch espagnol dans les paramètres
 4. Démarrer le processus
